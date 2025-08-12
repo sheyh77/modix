@@ -6,7 +6,6 @@ import EmailImg from "/images/mail-contact.png";
 function Contact() {
     return (
         <section className="contact">
-            <div className="contact-bg2"></div>
             <div className="cantainer">
                 <div className="contact-wrap">
                     <h1 className="contact-title">Contact Us</h1>
