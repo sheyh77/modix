@@ -40,13 +40,13 @@ function Contact() {
                                 </div>
                             </div>
                         </div>
-                        <div className="contact-right">
+                        {/* <div className="contact-right">
                             <h1 className="contact-right-title">Send Message</h1>
                             <input type="text" placeholder='Full name'/>
                             <input type="email" name='userEmail' placeholder='Email'/>
                             <input type="text" placeholder='Type your Message...' className='contact-message'/>
                             <button className='contact-send' type='submit'>Send</button>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
